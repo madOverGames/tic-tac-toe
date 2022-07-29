@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FaPlay, FaRobot } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
-import Button from "../ui/Button";
+import { Button } from "ui-components";
 import "./MainMenu.css";
 
 const gameModes = {

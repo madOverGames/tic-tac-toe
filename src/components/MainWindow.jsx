@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Header from "./ui/Header";
-import Footer from "./ui/Footer";
+import { Header } from "ui-components";
+import { Footer } from "ui-components";
 import GameWindow from "./app/GameWindow";
 import "./MainWindow.css";
 
